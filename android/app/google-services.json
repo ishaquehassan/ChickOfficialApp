@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749864028388",
+    "firebase_url": "https://chichophicial.firebaseio.com",
+    "project_id": "chichophicial",
+    "storage_bucket": "chichophicial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749864028388:android:838a2c06174d053a",
+        "android_client_info": {
+          "package_name": "com.hamza.chic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749864028388-7677npofpe1kk4u5v7eonrrm472qlf9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9zqXMRqEEDuEoEUwuHxtKeQ8Gm0LR1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749864028388-7677npofpe1kk4u5v7eonrrm472qlf9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
